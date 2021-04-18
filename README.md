@@ -1,4 +1,4 @@
-# First GUIT HTML
+# First GIT HUB HTML Project
 
 Eu alterei no GUIT ONLINE
 
