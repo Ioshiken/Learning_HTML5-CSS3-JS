@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "c:\\Users\\a0096425\\Documents\\GitHub\\Curso_git_git_hub\\Celso_Projects_HTML\\HTML_EXERC\\HTML3\\index.html"
+            "name": "Open exerc7.html",
+            "file": "c:\\Users\\a0096425\\Documents\\GitHub\\Curso_git_git_hub\\Celso_Projects_HTML\\HTML_EXERC\\LogicaProgramacao\\gustavologica\\exerc7.html"
         }
     ]
 }
