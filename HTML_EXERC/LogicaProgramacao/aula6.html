@@ -10,10 +10,31 @@
 </head>
 
 <body>
-    <h1>Aula do Prof Gustavo Guanabara</h1>
+    <h1>Aula do Prof </h1>
     <script>
-   var n1= prompt('Digite um numero:');
-n1= parseFloat(n1);
+  var n1 = prompt(' Jogador 1 - Digite um numero: ');
+        n1 = parseInt(n1);
+        var n2 = prompt(' Jogador 2 Digite outro numero: ');
+        n2 = parseInt(n2);
+        if (n1===n2){
+            alert('Os numeros são iguais deu empate');
+        } else {
+           var sorteado = parseInt (Match.random () * 2);
+           sorteado = parseInt (sorteado)
+           if (sorteado === 0 ){
+               if (n1 < n2){
+                  alert('Ganhou o Jogador 1');
+               }else{
+                   alert('Ganhou o Jogador 2');
+               }
+           }else  {
+               if (n1 > n2){
+                   alert('Ganhou Jogador 1');
+                   } else {
+                       alert('Ganhou Jogador 2');
+                   }
+               }
+            }
     </script>
 </body>
 
