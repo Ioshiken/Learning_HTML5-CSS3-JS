@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(83, 83, 245);
+}
+h1{
+    font-family: sans-serif;
+    color:rgba(243, 66, 66, 0.986);
+    margin-left: 5px;
+}
+p{
+    font-family: Arial;
+    color: rgb(227, 241, 28); /*Comentario em CSS*/
+    margin-left: 10px;
+}
