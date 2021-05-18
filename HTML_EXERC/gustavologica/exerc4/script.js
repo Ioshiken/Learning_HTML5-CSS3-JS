@@ -1,3 +1,4 @@
-var nome=window.prompt('Qual seu nome?')
-document.write(`Ola, ${nome}, Seu nome tem ${nome.length} letras.`)
-document.white(`Seu nome em maiusculo e ${nome.toUpperCase()} `)
+var nome= window.prompt('Qual e seu nome?')
+document.write(` Ola ${nome}, seu nome tem ${nome.length} letras <br>`)
+document.write(`Seu nome em maiusculo e ${nome.toLocaleUpperCase()} <br>`)
+document.write(`Seu nome em minusculo e ${nome.toLocaleLowerCase()} <br>`)
